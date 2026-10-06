@@ -1,0 +1,24 @@
+ipykernel
+
+# Pandas and dependencies
+pandas
+numpy
+scipy
+
+# numba
+numexpr
+bottleneck
+
+openpyxl
+
+# Plotting
+matplotlib
+seaborn
+ipympl
+
+pytest
+pytest-cov
+ipytest
+
+# Smard api
+deutschland[smard]
